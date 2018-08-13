@@ -1,0 +1,4 @@
+/target/
+/logs/
+/screenshot/
+.DS_Store
