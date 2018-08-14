@@ -1,4 +1,6 @@
-/target/
-/logs/
-/screenshot/
+target/
+logs/
+screenshots/
 .DS_Store
+.classpath
+test-output/
